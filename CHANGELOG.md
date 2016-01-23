@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## Delorean v1.1.0
+
+- 
+
 ## Delorean v1.0.0
 
 - des roues
