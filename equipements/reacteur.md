@@ -10,3 +10,7 @@ Fourni les 2.21Gigowatts de puissance.
 ## Fabricant
 
 Arevo international
+
+## Bugs connus
+
+aucun
