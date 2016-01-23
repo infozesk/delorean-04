@@ -11,3 +11,6 @@ Permet de saisir la date de destination du voyage temporel.
 
 Emmett Brown
 
+## Bug connus
+
+- La date de destination "saute", provoquant des voyages à des dates aléatoires.
