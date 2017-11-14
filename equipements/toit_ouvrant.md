@@ -15,4 +15,4 @@ La petite fabrique de verre des deux pins
 
 ## bugs connus
 
-- N/A
+- un impact inférieur à 1cm dans le champs de vision
