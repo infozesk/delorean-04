@@ -1,4 +1,4 @@
 # Lentille gravitationnelle
 
-Matiere : verre
+Matiere : verre, fécale
 
