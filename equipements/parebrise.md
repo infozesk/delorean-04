@@ -7,6 +7,7 @@ Une surface de verre pour ne pas se faire décoiffer.
 - surface: 2m2
 - transparence: 56%
 - nombre: 1
+- filtre anti UVB
 
 ## Fabricant
 
