@@ -2,7 +2,7 @@
 
 ## Delorean v1.1.0
 
-- 
+- Multiple features!! 
 
 ## Delorean v1.0.0
 
